@@ -38,6 +38,8 @@ A sophisticated full-stack task management platform built with Next.js (App Rout
 - Protected routes
 - Secure password handling
 
+![alt text](<Screenshot 2026-04-18 155851.png>) ![alt text](<Screenshot 2026-04-18 160453.png>) ![alt text](<Screenshot 2026-04-18 160403.png>) ![alt text](<Screenshot 2026-04-18 160243.png>) ![alt text](<Screenshot 2026-04-18 160107.png>)
+
 ### Task Management
 - Create, read, update, delete tasks
 - Status tracking (To Do, In Progress, Done)
