@@ -11,7 +11,7 @@ A sophisticated full-stack task management platform built with Next.js (App Rout
 - **Responsive Design**: Optimized for desktop, tablet, and mobile
 - **Performance Optimized**: Efficient rendering and data fetching
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Frontend:**
 - Next.js 14 (App Router)
