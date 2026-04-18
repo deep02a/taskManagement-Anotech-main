@@ -30,7 +30,7 @@ A sophisticated full-stack task management platform built with Next.js (App Rout
 - RESTful API design
 - Environment-based configuration
 
-## 🚀 Features
+## Features
 
 ### Authentication
 - User registration and login
@@ -59,7 +59,7 @@ A sophisticated full-stack task management platform built with Next.js (App Rout
 - Visual progress indicators
 - Clean data visualization
 
-## 📦 Installation
+## Installation
 
 1. **Clone and install:**
    ```bash
@@ -93,7 +93,7 @@ A sophisticated full-stack task management platform built with Next.js (App Rout
 ### Local Port
 - App + API: `http://localhost:3000`
 
-## 🎨 Design Philosophy
+## Design Philosophy
 
 This application follows modern enterprise design principles:
 
@@ -102,13 +102,13 @@ This application follows modern enterprise design principles:
 - **Scalability**: Component-based architecture for easy extension
 - **User-Centric**: Intuitive workflows and clear visual hierarchy
 
-## 📱 Responsive Design
+## Responsive Design
 
 - **Desktop**: Full feature set with multi-column layouts
 - **Tablet**: Adaptive grid systems and touch-friendly interactions
 - **Mobile**: Single-column layouts with optimized spacing
 
-## 🔒 Security
+## Security
 
 - Password hashing with bcryptjs
 - JWT tokens with expiration
@@ -116,7 +116,7 @@ This application follows modern enterprise design principles:
 - CORS protection
 - Secure API endpoints
 
-## 🚀 Deployment
+## Deployment
 
 ### Manual Deployment
 1. Build the application: `npm run build`
